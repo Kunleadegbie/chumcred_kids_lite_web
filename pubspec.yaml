@@ -1,0 +1,36 @@
+name: chumcred_kids_lite_v3
+description: Chumcred Kids Lite v3 - AI-powered early learning with progression, badges, streaks, and offline packs.
+publish_to: "none"
+version: 0.3.0+3
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  http: ^1.2.2
+  flutter_tts: ^3.8.5
+  url_launcher: ^6.3.1
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/i18n/
+    - assets/images/
+    - assets/packs/basics.json
+    - assets/audio/yo/
+    - assets/audio/ha/
+    - assets/audio/ig/
