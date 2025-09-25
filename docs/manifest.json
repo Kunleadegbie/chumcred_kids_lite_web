@@ -1,6 +1,6 @@
 {
-    "name": "chumcred_kids_lite_v3",
-    "short_name": "chumcred_kids_lite_v3",
+    "name": "chumcred_kids_lite",
+    "short_name": "chumcred_kids_lite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
