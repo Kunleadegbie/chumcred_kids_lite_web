@@ -1,0 +1,20 @@
+[
+  {
+    "id": "letters",
+    "title": "Alphabet Basics",
+    "items": [
+      {"id": "a", "text": "A is for Apple"},
+      {"id": "b", "text": "B is for Ball"},
+      {"id": "c", "text": "C is for Cat"}
+    ]
+  },
+  {
+    "id": "numbers",
+    "title": "Numbers 1–3",
+    "items": [
+      {"id": "1", "text": "One"},
+      {"id": "2", "text": "Two"},
+      {"id": "3", "text": "Three"}
+    ]
+  }
+]
